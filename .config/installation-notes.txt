@@ -1,0 +1,15 @@
+This is notes i'm taking for some important steps when configuring some items especially in neovim configuration
+
+
+- Angular links to help
+https://github.com/neovim/nvim-lspconfig/issues/1155
+https://www.reddit.com/r/neovim/comments/18ywqvp/angular_lsp_configuration_errors/
+current working config: https://github.com/gmr458/nvim/blob/main/lua/gmr/configs/lsp/settings/angularls.lua
+
+
+
+
+
+
+
+- tmux sessionx https://github.com/omerxx/tmux-sessionx
